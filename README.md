@@ -13,9 +13,9 @@ Exploratory Data Analysis (EDA): Includes visualizations (using Seaborn and Matp
 Model Optimization: Employed callbacks such as EarlyStopping and ReduceLROnPlateau to prevent overfitting and optimize the training process.
 
 # Technologies & Dependencies
-Language: Python 3
-Deep Learning: tensorflow / keras
-Data Handling: pandas, numpy
-Natural Language Processing (NLP): nltk (for stopwords)
-Visualization: matplotlib, seaborn, wordcloud
+Language: Python 3, 
+Deep Learning: tensorflow / keras, 
+Data Handling: pandas, numpy, 
+Natural Language Processing (NLP): nltk (for stopwords), 
+Visualization: matplotlib, seaborn, wordcloud, 
 Utilities: sklearn (for train_test_split)
